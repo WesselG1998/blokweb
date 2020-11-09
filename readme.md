@@ -69,16 +69,19 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ## Intake (week 1)
 -uitwerken voor de kick-off werkgroep - begin van de eerste week-
 
-**Je startniveau:** -kies uit zwart, rood óf blauw-
+**Je startniveau:** -blauw-
 
-**Je focus:** -kies uit responsive óf surface plane-
+**Je focus:** -responsive-
 
-**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
+**Je opdracht:** -voetbalprimeur.nl-
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
+<img src="images/scherm1_1.png" width="375px" alt="hoofdpagina">
+<img src="images/scherm1_2.png" width="375px" alt="hoofdpagina">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
+<img src="images/scherm2_1.png" width="375px" alt="hoofdpagina">
+<img src="images/scherm2_2.png" width="375px" alt="hoofdpagina">
+
