@@ -1,5 +1,59 @@
 /* CSS Document */
-*, *::after, *::before {
-  box-sizing:border-box;  
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
 }
 
+body {
+    background-color: white;
+    margin: 0;
+}
+
+header {
+    position: sticky;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #2C54B1;
+    top: 0;
+}
+/*de zoekbalk*/
+header input {
+    margin-left: auto;
+    width: 2em;
+    transition: 0.25s;
+}
+
+header input:focus{
+    width: 6em;
+     transition: 0.5s;
+
+}
+
+
+/*het menu*/
+header nav {
+    flex-basis: 100%;
+    flex-shrink: 0;
+    background-color: white;
+    width: 100%;
+}
+
+header nav ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    overflow-x: auto;
+    width: 100%;
+}
+
+header nav ul li {
+    flex-shrink: 0;
+}
+
+header nav ul a {
+    line-height: 3.75em;
+    text-decoration: none;
+    padding: 0 .625em 0 .625em;
+}

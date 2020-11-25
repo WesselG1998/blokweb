@@ -1,5 +1,5 @@
 # Procesverslag
-**Auteur:** -jouw naam-
+**Auteur:** -Wessel Glansbeek-
 
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
@@ -38,21 +38,21 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+-Ik vind het lastig te coderen met een blanco scherm voor me. Wanneer ik meekijk als iemand anders codeert snap ik het altijd wel-
 
 **Screenshot(s):**
-
--screenshot(s) van hoe ver je bent met korte uitleg-
+<img src="images/Schermafbeelding%202020-11-25%20om%2020.50.14.png" width="375px" alt="screenshot">
+-header en nav beginnetje gemaakt-
 
 ### Agenda voor meeting
 
 -samen met je groepje opstellen-
 
-| student 1      | student 2          | student 3    | student 4        |
+| Wessel         | Nick               | Redouane     | Ugur             |
 | ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| slideshow      | nav sticky         | vragen vooraf| afwezig          |
+| meer results   | code semantiek     | nog een punt |                  |
+| ...            | hb menu uitklappen | ...          | ...              |
 
 ### Verslag van meeting
 
