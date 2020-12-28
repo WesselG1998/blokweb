@@ -30,7 +30,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--Ik heb moeite met de slider. Sanne had een link naar YouTube filmpje gestuurd. Ik kwam hier heel ver mee, tot ik vlak over de helft vastliep-
+-same as voortgang 1-
 
 
 
